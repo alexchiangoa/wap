@@ -24,7 +24,7 @@ if(isset($_GET['intr'])) {
 <html><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>
-        半岛PG娱乐城娱乐场官方直营网上真人百家乐、六合彩、彩票、体育投注站        </title>
+        半岛PG娱乐城娱乐场官方直营网上真人百家乐、六合彩、彩票、体育投注站 test for git       </title>
     <!--[if lt IE 9]>
     <script src="js/html5.js" type="text/javascript">
     </script>
